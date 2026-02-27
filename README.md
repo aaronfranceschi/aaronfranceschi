@@ -1,5 +1,5 @@
 
-# Hi I'm Aaron, AI-Driven Full-Stack Engineer
+# Hi, I’m Aaron - an AI-Driven Full-Stack Engineer building scalable systems.
 
 I build products from MVP to scale.
 
