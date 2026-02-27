@@ -9,8 +9,9 @@ I've learned that scaling doesn’t happen because of one big decision - it happ
 
 ## ⚙️ Core Stack
 
-* **Frontend:** Next.js, React, TypeScript
-* **Backend:** NestJS, Node.js, FastAPI
-* **Database:** PostgreSQL, Supabase, MongoDB
-* **AI & Data:** OpenAI, Anthropic, LangChain
-* **Cloud:** AWS, GCP, Vercel, Docker, GitHub Actions
+* **Frontend:** Next.js, React, TypeScript, TailwindCSS, Zustand, TanStack Query
+* **Backend:** NestJS, Node.js, FastAPI, REST, GraphQL, WebSockets
+* **Database:** PostgreSQL, Supabase, MongoDB, Redis, Prisma, Drizzle ORM
+* **AI & Data:** OpenAI, Anthropic, LangChain, Vector DB, Embeddings
+* **Cloud:** AWS, GCP, Vercel, Docker, GitHub Actions, CI/CD, Nginx
+* **Architecture & Practices:** Microservices, Clean Architecture, Domain-Driven Design (DDD), Event-driven systems, Message queues
