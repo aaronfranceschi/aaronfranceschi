@@ -1,5 +1,5 @@
 
-# AI Driven Full-Stack Engineer | Next.js | NestJS | FastAPI | TypeScript | PostgreSQL | Supabase
+# Hi I'm Aaron, AI-Driven Full-Stack Engineer
 
 I build products from MVP to scale.
 
