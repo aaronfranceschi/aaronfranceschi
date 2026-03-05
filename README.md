@@ -1,4 +1,4 @@
-## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=40&duration=6000&pause=100&color=00BFA6&multiline=true&repeat=false&width=1000&height=120&lines=Full-Stack%20Engineer%20%7C%20AI-Driven%20Development%20%7C;TypeScript%20%C2%B7%20Next.js%20%C2%B7%20NestJS%20%C2%B7%20FastAPI%20%C2%B7%20PostgreSQL)
+## Full-Stack Engineer | AI-First Development | TypeScript , Next.js, NestJS, FastAPI, PostgreSQL, Supabase
 
 ## Sections
 - [Overview](#overview)
