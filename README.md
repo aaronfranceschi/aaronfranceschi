@@ -1,7 +1,5 @@
 ## Full-Stack Engineer | AI-First Development | TypeScript , Next.js, NestJS, FastAPI, PostgreSQL, Supabase
 
-## Overview
-
 I'm **Aaron**, a **software engineer** who enjoys turning **ideas into real, working software**. My work focuses on building **full-stack applications** and **AI-powered systems** using technologies like **React, TypeScript, Python, and FastAPI**. I'm especially interested in creating **scalable SaaS products, integrating APIs**, and designing **clean architectures** that make software **reliable and easy to scale**. I enjoy **exploring new technologies**, solving **real-world problems**, and building **intelligent tools** that make work more efficient through **AI and automation**.
 
 ## Skills and Knowledge
