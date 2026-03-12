@@ -6,81 +6,62 @@ I'm **Aaron**, a **software engineer** who enjoys turning **ideas into real, wor
 
 A brief overview of the skills and knowledge that I have acquired over the years, as well as the technologies that I have experience working with
 
-<details>
-<summary><strong> Frontend Development</strong></summary>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  </a>
+  <a href="https://shadcn.dev/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" alt="shadcn" width="40" height="40"/>
+  </a>
 
-<ul>
-    <li><img src="https://img.shields.io/badge/HTML5%20%26%20CSS3%20%26%20SASS-orange?logo=html5&logoColor=white" alt="HTML5 & CSS3 & SASS"></li>
-    <li><img src="https://img.shields.io/badge/React-blue?logo=react&logoColor=white" alt="React"></li>
-    <li><img src="https://img.shields.io/badge/Angular-red?logo=angular&logoColor=white" alt="Angular"></li>
-    <li><img src="https://img.shields.io/badge/Vue.js-darkgreen?logo=vue.js&logoColor=white" alt="Vue.js"></li>
-    <li><img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" alt="Next.js"></li>
-    <li><img src="https://img.shields.io/badge/Bootstrap-blueviolet?logo=bootstrap&logoColor=white" alt="Bootstrap"></li>
-    <li><img src="https://img.shields.io/badge/jQuery-blue?logo=jquery&logoColor=white" alt="jQuery"></li>
-    <li><img src="https://img.shields.io/badge/TailwindCSS-teal?logo=tailwindcss&logoColor=white" alt="TailwindCSS"></li>
-    <li><img src="https://img.shields.io/badge/Streamlit-orange?logo=streamlit&logoColor=white" alt="Streamlit"></li>
-    <li><img src="https://img.shields.io/badge/MaterialUI%20%26%20JoyUI-blueviolet?logo=mui&logoColor=white" alt="MUI and JoyUI Badge"></li>
-    <li><img src="https://img.shields.io/badge/Shadcn%20UI-black?logo=shadcnui&logoColor=white" alt="Shadcn UI"></li>
-    <li><img src="https://img.shields.io/badge/Webpack-skyblue?logo=webpack&logoColor=white" alt="Webpack"></li>
-    <li><img src="https://img.shields.io/badge/Jest%20%26%20React%20Testing%20Library-C21325?logo=jest&logoColor=white" alt="Jest & React Testing Library"></li>
-</ul>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
 
-</details>
-
-<details>
-<summary><strong> Backend Development</strong></summary>
-
-<ul>
-    <li><img src="https://img.shields.io/badge/Node.js-darkgreen?logo=node.js&logoColor=white" alt="Node.js"></li>
-    <li><img src="https://img.shields.io/badge/Express.js-blue?logo=express&logoColor=white" alt="Express.js"></li>
-    <li><img src="https://img.shields.io/badge/Nest.js-red?logo=nestjs&logoColor=white" alt="Nest.js Badge"></li>
-    <li><img src="https://img.shields.io/badge/Django%20%26%20Django%20REST%20Framework-darkgreen?logo=django&logoColor=white" alt="Django & Django REST Framework"></li>
-    <li><img src="https://img.shields.io/badge/Flask-lightgrey?logo=flask&logoColor=white" alt="Flask"></li>
-    <li><img src="https://img.shields.io/badge/FastAPI-success?logo=fastapi&logoColor=white" alt="FastAPI"></li>
-    <li><img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white" alt="Pytest"></li>
-    <li><img src="https://img.shields.io/badge/RESTful%20APIs-red?logo=axios&logoColor=white" alt="RESTful APIs"></li>
-    <li><img src="https://img.shields.io/badge/GraphQL-magenta?logo=graphql&logoColor=white" alt="GraphQL"></li>
-    <li><img src="https://img.shields.io/badge/WebSockets-yellow?logo=socketdotio&logoColor=white" alt="WebSockets"></li>
-    <li><img src="https://img.shields.io/badge/Nginx-darkgreen?logo=nginx&logoColor=white" alt="Nginx"></li>
-    <li><img src="https://img.shields.io/badge/Apache%20Kafka-black?logo=apachekafka&logoColor=white" alt="Apache Kafka"></li>
-    <li><img src="https://img.shields.io/badge/OAuth%20%26%20JWT-blue?logo=jsonwebtokens&logoColor=white" alt="OAuth & JWT"></li>
-    <li><img src="https://img.shields.io/badge/Auth0-EB5424?logo=auth0&logoColor=white" alt="Auth0"></li>
-    <li><img src="https://img.shields.io/badge/OpenAPI-blue?logo=openapiinitiative&logoColor=white" alt="OpenAPI"></li>
-    <li><img src="https://img.shields.io/badge/Micro--Services%20Architecture-darkgreen?logo=stackedit&logoColor=white" alt="Micro-Services Architecture"></li>
-</ul>
-
-</details>
-
-<details>
-<summary><strong> Databases</strong></summary>
-
-<ul>
-    <li><img src="https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white" alt="MySQL"></li>
-    <li><img src="https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb&logoColor=white" alt="MongoDB"></li>
-    <li><img src="https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white" alt="PostgreSQL"></li>
-    <li><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-darkred?logo=sololearn&&logoColor=white" alt="Microsoft SQL Server"></li>
-    <li><img src="https://img.shields.io/badge/Firebase-orange?logo=firebase&logoColor=white" alt="Firebase"></li>
-    <li><img src="https://img.shields.io/badge/Supabase-darkgreen?logo=supabase&logoColor=white" alt="Supabase"></li>
-    <li><img src="https://img.shields.io/badge/SQLite-lightblue?logo=sqlite&logoColor=white" alt="SQLite"></li>
-    <li><img src="https://img.shields.io/badge/Redis-red?logo=redis&logoColor=white" alt="Redis"></li>
-</ul>
-
-</details>
-
-<details>
-<summary><strong> DevOps & Tools</strong></summary>
-
-<ul>
-    <li><img src="https://img.shields.io/badge/Git-orange?logo=git&logoColor=white" alt="Git"></li>
-    <li><img src="https://img.shields.io/badge/GitHub%20Actions-lightgrey?logo=githubactions&logoColor=white" alt="GitHub Actions"></li>
-    <li><img src="https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white" alt="Docker"></li>
-    <li><img src="https://img.shields.io/badge/Kubernetes%20(K8s)-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes (K8s)"></li>
-    <li><img src="https://img.shields.io/badge/Vercel-black?logo=vercel&logoColor=white" alt="Vercel"></li>
-    <li><img src="https://img.shields.io/badge/Heroku-purple?logo=hermes&logoColor=white" alt="Heroku"></li>
-    <li><img src="https://img.shields.io/badge/Netlify-darkgreen?logo=netlify&logoColor=white" alt="Netlify"></li>
-    <li><img src="https://img.shields.io/badge/AWS-orange?logo=task&logoColor=white" alt="AWS"></li>
-    <li><img src="https://img.shields.io/badge/Jira%20&%20Confluence-blue?logo=jira&logoColor=white" alt="Jira & Confluence"></li>
-</ul>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
 
 </details>
 
