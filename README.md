@@ -81,20 +81,3 @@ I'm a <b>Full-Stack Engineer</b> passionate about building <b>scalable applicati
     </tbody>
   </table>
 </div>
-
-<div align="center">
-  <h2>My Stats</h2>
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=aaronfranceschi&show_icons=true&theme=radical" alt="Aaron Franceschi Stats" />
-      </td>
-      <td>
-        <a href="https://git.io/streak-stats">
-          <img src="https://github-readme-streak-stats-beige-three.vercel.app?user=aaronfranceschi&theme=whatsapp-dark2" alt="GitHub Streak" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
