@@ -1,152 +1,147 @@
-# Full-Stack Engineer | AI-First Development | TypeScript, Next.js, NestJS, FastAPI, PostgreSQL, Supabase
+<div align="center">
+  <h1 align="center">
+  Hi 👋, I'm Aaron Franceschi
+  <br />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=2000&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer+%7C+AI-First+Developer" alt="Typing SVG" />
+  </a>
+  </h1>
 
-I'm **Aaron**, a **software engineer** who enjoys turning **ideas into real, working software**. My work focuses on building **full-stack applications** and **AI-powered systems** using technologies like **React, TypeScript, Python, and FastAPI**. I'm especially interested in creating **scalable SaaS products, integrating APIs**, and designing **clean architectures** that make software **reliable and easy to scale**. I enjoy **exploring new technologies**, solving **real-world problems**, and building **intelligent tools** that make work more efficient through **AI and automation**.
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <div align="center">
+      <a href="https://github.com/aaronfranceschi" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      </a>
+      <a href="https://www.linkedin.com/in/aaronfranceschi" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
+      <a href="mailto:franceschiaaron1012@outlook.com" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      </a>
+    </div>
+  </div>
+</div>
 
----
+<p>
+I'm a <b>Full-Stack Engineer</b> passionate about building <b>scalable applications</b> and <b>AI-powered systems</b>. I specialize in designing clean architectures, integrating APIs, and turning ideas into real software. My experience spans <b>frontend, backend, databases, DevOps, and AI/ML</b>.
+</p>
 
-## Skills and Knowledge
+<div align="center">
+  <h2>🛠️ My Tech Stack</h2>
+  <table width="100%">
+    <tbody>
+      <tr>
+        <td><b>Machine Learning / AI</b></td>
+        <td>
+          <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas" alt="ml" />
+        </td>
+      </tr>
+      <tr>
+        <td><b>Frontend</b></td>
+        <td>
+          <img src="https://skillicons.dev/icons?i=html,css,react,ts,nextjs,tailwind,redux,angular,shadcn" alt="frontend" />
+        </td>
+      </tr>
+      <tr>
+        <td><b>Backend</b></td>
+        <td>
+          <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,express,fastapi,nestjs,java,spring,graphql,django" alt="backend" />
+        </td>
+      </tr>
+      <tr>
+        <td><b>Database & Storage</b></td>
+        <td>
+          <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,supabase,firebase" alt="database" />
+        </td>
+      </tr>
+      <tr>
+        <td><b>DevOps & CI/CD</b></td>
+        <td>
+          <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,jenkins,nginx,terraform,ansible,bash,githubactions" alt="devops" />
+        </td>
+      </tr>
+      <tr>
+        <td><b>PaaS & Deployment</b></td>
+        <td>
+          <img src="https://skillicons.dev/icons?i=aws,vercel,heroku,netlify,gcp,azure" alt="paas" />
+        </td>
+      </tr>
+      <tr>
+        <td><b>Operating Systems</b></td>
+        <td>
+          <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,macos" alt="os" />
+        </td>
+      </tr>
+      <tr>
+        <td><b>Testing & Tools</b></td>
+        <td>
+          <img src="https://skillicons.dev/icons?i=jest,cypress,selenium,postman,sentry,figma,notion,discord" alt="tools" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-Here’s a categorized overview of my technical skills:
+<h2 align="center">My Projects</h2>
+<table>
+  <thead>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Status</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/aaronfranceschi/ai-summarizer">AI Video Summarizer</a></td>
+      <td>An AI-powered tool that summarizes video content quickly and generates concise highlights for viewers.</td>
+      <td>✅ Completed</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/aaronfranceschi/fullstack-saas">Fullstack SaaS App</a></td>
+      <td>A complete SaaS platform built with Next.js, NestJS, and PostgreSQL, featuring authentication, payments, and dashboards.</td>
+      <td>✅ Completed</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/aaronfranceschi/fastapi-ml-api">FastAPI ML API</a></td>
+      <td>A FastAPI backend exposing machine learning models as APIs for integration with web and mobile apps.</td>
+      <td>🔨 In Progress</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/aaronfranceschi/resume-builder">Resume Builder Tool</a></td>
+      <td>A tool for building resumes with automated skill recommendations and formatting templates.</td>
+      <td>🔜 To Be Started</td>
+    </tr>
+  </tbody>
+</table>
 
-### **Languages**
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
-</a>
+<div align="center">
+  <h2>My Stats</h2>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=aaronfranceschi&show_icons=true&theme=radical" alt="Aaron Franceschi Stats" />
+      </td>
+      <td>
+        <a href="https://git.io/streak-stats">
+          <img src="https://github-readme-streak-stats-beige-three.vercel.app?user=aaronfranceschi&theme=whatsapp-dark2" alt="GitHub Streak" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
----
-
-### **Frontend**
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-</a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-</a>
-<a href="https://shadcn.dev/" target="_blank" rel="noreferrer">
-<img src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" alt="shadcn" width="40" height="40"/>
-</a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
-</a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-<img src="https://vitejs.dev/logo-with-shadow.png" alt="vite" width="40" height="40"/>
-</a>
-
----
-
-### **Backend**
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-</a>
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-<img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" width="40" height="40"/>
-</a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/>
-</a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-</a>
-
----
-
-### **Database & Storage**
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>
-<a href="https://supabase.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/supabase-icon-1.svg" alt="supabase" width="40" height="40"/>
-</a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-</a>
-
----
-
-### **DevOps & Tools**
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a>
-<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-</a>
-<a href="https://postman.com" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-</a>
-
----
-
-### **AI & Data**
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-</a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-</a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-</a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
-</a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/>
-</a>
-
----
-
-### **Other / Misc**
-<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
-</a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/idea/idea-original.svg" alt="intellij" width="40" height="40"/>
-</a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-</a>
-
----
-
-## Notable Projects
-
-Here are some of the most notable projects I’ve worked on. You can explore even more of my work in my [GitHub repositories](https://github.com/aaronfranceschi?tab=repositories).
+<div align="center">
+  <h2>Connect With Me</h2>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <div align="center">
+      <a href="https://github.com/aaronfranceschi" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      </a>
+      <a href="https://www.linkedin.com/in/aaronfranceschi" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
+      <a href="mailto:franceschiaaron1012@outlook.com" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      </a>
+    </div>
+  </div>
+</div>
