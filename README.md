@@ -82,37 +82,6 @@ I'm a <b>Full-Stack Engineer</b> passionate about building <b>scalable applicati
   </table>
 </div>
 
-<h2 align="center">My Projects</h2>
-<table>
-  <thead>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Status</th>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/aaronfranceschi/ai-summarizer">AI Video Summarizer</a></td>
-      <td>An AI-powered tool that summarizes video content quickly and generates concise highlights for viewers.</td>
-      <td>✅ Completed</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/aaronfranceschi/fullstack-saas">Fullstack SaaS App</a></td>
-      <td>A complete SaaS platform built with Next.js, NestJS, and PostgreSQL, featuring authentication, payments, and dashboards.</td>
-      <td>✅ Completed</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/aaronfranceschi/fastapi-ml-api">FastAPI ML API</a></td>
-      <td>A FastAPI backend exposing machine learning models as APIs for integration with web and mobile apps.</td>
-      <td>🔨 In Progress</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/aaronfranceschi/resume-builder">Resume Builder Tool</a></td>
-      <td>A tool for building resumes with automated skill recommendations and formatting templates.</td>
-      <td>🔜 To Be Started</td>
-    </tr>
-  </tbody>
-</table>
-
 <div align="center">
   <h2>My Stats</h2>
   <table>
@@ -129,19 +98,3 @@ I'm a <b>Full-Stack Engineer</b> passionate about building <b>scalable applicati
   </table>
 </div>
 
-<div align="center">
-  <h2>Connect With Me</h2>
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <div align="center">
-      <a href="https://github.com/aaronfranceschi" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-      </a>
-      <a href="https://www.linkedin.com/in/aaronfranceschi" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-      </a>
-      <a href="mailto:franceschiaaron1012@outlook.com" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-      </a>
-    </div>
-  </div>
-</div>
