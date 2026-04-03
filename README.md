@@ -2,9 +2,9 @@
   <h1 align="center">
   Hi 👋, I'm Aaron Franceschi
   <br />
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=2000&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer+%7C+AI-First+Developer" alt="Typing SVG" />
-  </a>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=2000&center=true&vCenter=true&width=500&color=1F467D&lines=Full-Stack+Engineer+%7C+AI-First+Developer" alt="Typing SVG" />
+    </a>
   </h1>
 
 </div>
