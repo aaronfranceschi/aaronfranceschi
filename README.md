@@ -7,19 +7,6 @@
   </a>
   </h1>
 
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <div align="center">
-      <a href="https://github.com/aaronfranceschi" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-      </a>
-      <a href="https://www.linkedin.com/in/aaronfranceschi" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-      </a>
-      <a href="mailto:franceschiaaron1012@outlook.com" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-      </a>
-    </div>
-  </div>
 </div>
 
 <p>
